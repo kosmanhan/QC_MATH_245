@@ -1,4 +1,4 @@
-"""Project 1 Third Draft
+"""Project 1
 
 #Rockaway Beach Scootershare Model
 
